@@ -1,6 +1,6 @@
-# news_app
+# News_app
 
-A new Flutter project.
+An application dedicated to all kinds of news, whether politics, science, technology and sports, using API.
 
 ## Getting Started
 
